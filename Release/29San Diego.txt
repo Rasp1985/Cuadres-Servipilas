@@ -1,0 +1,45 @@
+            SERVIPILAS
+        ORDEN DE SERVICIO
+                 
+ DOCUMENTO NO VALIDO COMO FACTURA
+            DE COMPRA
+----------------------------------
+FECHA.....:20/03/2018 12:24 p. m.
+ORDEN NRO...:29
+DOCUMENTO...:0904191988
+CLIENTE.....:JOSE NEBOP
+TELEFONO....:
+CELULAR.....:3127509134
+CONTACTO....:
+----------------------------------
+DESCRIPCION     PLUG |CANT |PRECIO
+----------------------------------
+BATERIA PACK  79009   1        0
+----------------------------------
+    TOTAL......$               ,00
+----------------------------------
+CODIGO RELOJ:1
+MARCA Y REFERENCIA:yutyu
+OBSERVACIONES:
+CARACTERISTICAS:Enamble de bateria
+----------------------------------
+VENDEDOR:JOSE DELIO OSORIO 
+----------------------------------
+  PASADOS 60 DIAS NO NOS HACEMOS
+   RESPONSABLES POR EL ARTICULO
+          PBX: 444 08 01
+    E-MAIL:INFO@SERVIPILAS.COM
+----------------------------------
+                 
+FIRMA EMPLEADO:___________________
+                 
+FIRMA CLIENTE:____________________
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 

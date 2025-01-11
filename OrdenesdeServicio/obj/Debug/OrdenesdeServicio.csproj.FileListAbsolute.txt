@@ -1,0 +1,10 @@
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.Form1.resources
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\Debug\OrdenesdeServicio.exe
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\Debug\OrdenesdeServicio.pdb
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.exe
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.pdb
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.Clientes.resources
+C:\Users\Ricardo\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\Debug\OrdenesdeServicio.ConsultarCliente.resources

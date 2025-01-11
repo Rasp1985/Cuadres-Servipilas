@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA0E6A98-F736-489B-A405-D2034F779C1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OrdenesdeServicio</RootNamespace>
+    <AssemblyName>OrdenesdeServicio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abonos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abonos.Designer.cs">
+      <DependentUpon>Abonos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso.Designer.cs">
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actividades Realizadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actividades Realizadas.Designer.cs">
+      <DependentUpon>Actividades Realizadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anular venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anular venta.Designer.cs">
+      <DependentUpon>Anular venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet.cs">
+      <DependentUpon>bdOrdenesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdOrdenesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet1.cs">
+      <DependentUpon>bdOrdenesDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdOrdenesDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet2.cs">
+      <DependentUpon>bdOrdenesDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdOrdenesDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdOrdenesDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdOrdenesDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar Ordenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar Ordenes.Designer.cs">
+      <DependentUpon>Consultar Ordenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultarabonos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultarabonos.Designer.cs">
+      <DependentUpon>Consultarabonos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCliente.Designer.cs">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaRepuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaRepuestos.Designer.cs">
+      <DependentUpon>ConsultaRepuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearTicket.cs" />
+    <Compile Include="Cuadres_Punto_de_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuadres_Punto_de_Venta.Designer.cs">
+      <DependentUpon>Cuadres_Punto_de_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarOrden.Designer.cs">
+      <DependentUpon>EliminarOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IForm.cs" />
+    <Compile Include="Imprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprimir.Designer.cs">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imprimirventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imprimirventas.Designer.cs">
+      <DependentUpon>imprimirventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imprimir_Actividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprimir_Actividades.Designer.cs">
+      <DependentUpon>Imprimir_Actividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imprimir_Cuadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprimir_Cuadre.Designer.cs">
+      <DependentUpon>Imprimir_Cuadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaOrden.Designer.cs">
+      <DependentUpon>NuevaOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reparaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reparaciones.Designer.cs">
+      <DependentUpon>Reparaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repuestosreloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repuestosreloj.Designer.cs">
+      <DependentUpon>Repuestosreloj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tesorería.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesorería.Designer.cs">
+      <DependentUpon>Tesorería.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Totales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Totales.Designer.cs">
+      <DependentUpon>Totales.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abonos.resx">
+      <DependentUpon>Abonos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceso.resx">
+      <DependentUpon>Acceso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actividades Realizadas.resx">
+      <DependentUpon>Actividades Realizadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anular venta.resx">
+      <DependentUpon>Anular venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar Ordenes.resx">
+      <DependentUpon>Consultar Ordenes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultarabonos.resx">
+      <DependentUpon>Consultarabonos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCliente.resx">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaRepuestos.resx">
+      <DependentUpon>ConsultaRepuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuadres_Punto_de_Venta.resx">
+      <DependentUpon>Cuadres_Punto_de_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarOrden.resx">
+      <DependentUpon>EliminarOrden.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="impresiontaller.rdlc" />
+    <EmbeddedResource Include="Imprimir.rdlc" />
+    <EmbeddedResource Include="Imprimir.resx">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imprimirventas.resx">
+      <DependentUpon>imprimirventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imprimir_Actividades.resx">
+      <DependentUpon>Imprimir_Actividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imprimir_Cuadre.resx">
+      <DependentUpon>Imprimir_Cuadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaOrden.resx">
+      <DependentUpon>NuevaOrden.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reparaciones.resx">
+      <DependentUpon>Reparaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="ReporteActividades.rdlc" />
+    <EmbeddedResource Include="Repuestosreloj.resx">
+      <DependentUpon>Repuestosreloj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tesorería.resx">
+      <DependentUpon>Tesorería.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Totales.resx">
+      <DependentUpon>Totales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventasproducto.rdlc" />
+    <EmbeddedResource Include="ventasyabonos.rdlc" />
+    <None Include="app.config" />
+    <None Include="bdOrdenesDataSet.xsc">
+      <DependentUpon>bdOrdenesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdOrdenesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdOrdenesDataSet.xss">
+      <DependentUpon>bdOrdenesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet1.xsc">
+      <DependentUpon>bdOrdenesDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdOrdenesDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdOrdenesDataSet1.xss">
+      <DependentUpon>bdOrdenesDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet2.xsc">
+      <DependentUpon>bdOrdenesDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdOrdenesDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdOrdenesDataSet2.xss">
+      <DependentUpon>bdOrdenesDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet3.xsc">
+      <DependentUpon>bdOrdenesDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bdOrdenesDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdOrdenesDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdOrdenesDataSet3.xss">
+      <DependentUpon>bdOrdenesDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imagenes\1481064749.png" />
+    <Content Include="imagenes\3.png" />
+    <Content Include="imagenes\delete_256.png" />
+    <Content Include="imagenes\descarga.jpg" />
+    <Content Include="imagenes\disquete-icono-4115-128.png" />
+    <Content Include="imagenes\edit_256.png" />
+    <Content Include="imagenes\pila.jpg" />
+    <Content Include="imagenes\r9.png" />
+    <Content Include="imagenes\r91.png" />
+    <None Include="Resources\printer-blue256_24942.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

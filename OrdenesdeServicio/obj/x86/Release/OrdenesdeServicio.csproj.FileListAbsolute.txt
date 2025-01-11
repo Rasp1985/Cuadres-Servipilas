@@ -1,0 +1,383 @@
+E:\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+E:\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+E:\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+E:\Orden de servicio 2\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+E:\orden actual\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+E:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\Users\pc-ultra\Desktop\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+G:\proyecto 220916\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\Users\pc-ultra\Desktop\Ultimo proyecto\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Anular_venta.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Empleados.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.imprimirventas.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Reparaciones.resources
+C:\Users\pc-ultra\Desktop\OrdenesdeServicio\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultarabonos.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\bdOrdenes.mdb
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Anular_venta.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultarabonos.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Empleados.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.imprimirventas.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Reparaciones.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Totales.resources
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Anular_venta.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultarabonos.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Empleados.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.imprimirventas.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Reparaciones.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Totales.resources
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojResolveAssemblyReference.cache
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Anular_venta.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultarabonos.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Empleados.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.imprimirventas.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Reparaciones.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Totales.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.Cache
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.cache
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\RdlCompile.compiled
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Actividades_Realizadas.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir_Actividades.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Cuadres_Punto_de_Venta.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir_Cuadre.resources
+C:\Users\pc-ultra\Documents\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Tesorería.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe.config
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.exe
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\OrdenesdeServicio.pdb
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Abonos.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Acceso.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Actividades_Realizadas.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Anular_venta.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Clientes.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultar_Ordenes.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Consultarabonos.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultarCliente.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.ConsultaRepuestos.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Cuadres_Punto_de_Venta.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.EliminarOrden.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Empleados.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Form1.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.imprimirventas.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir_Actividades.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Imprimir_Cuadre.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.NuevaOrden.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Reparaciones.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Repuestosreloj.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Tesorería.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.Totales.resources
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.exe
+C:\Users\Usuario\Desktop\ultimo servipilas\OrdenesdeServicio\obj\x86\Release\OrdenesdeServicio.pdb
